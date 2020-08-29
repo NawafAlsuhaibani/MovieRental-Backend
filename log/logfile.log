@@ -1,0 +1,21 @@
+{"level":"error","message":"error winstonerror winston","stack":"Error: error winston\n    at /Users/nawafalsuhaibani/Documents/NodeJsFolder/project/routes/genres.js:8:9\n    at newFn (/Users/nawafalsuhaibani/Documents/NodeJsFolder/project/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/nawafalsuhaibani/Documents/NodeJsFolder/project/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/nawafalsuhaibani/Documents/NodeJsFolder/project/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/nawafalsuhaibani/Documents/NodeJsFolder/project/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/nawafalsuhaibani/Documents/NodeJsFolder/project/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/nawafalsuhaibani/Documents/NodeJsFolder/project/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/nawafalsuhaibani/Documents/NodeJsFolder/project/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/nawafalsuhaibani/Documents/NodeJsFolder/project/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/nawafalsuhaibani/Documents/NodeJsFolder/project/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/nawafalsuhaibani/Documents/NodeJsFolder/project/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/nawafalsuhaibani/Documents/NodeJsFolder/project/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/nawafalsuhaibani/Documents/NodeJsFolder/project/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/nawafalsuhaibani/Documents/NodeJsFolder/project/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/nawafalsuhaibani/Documents/NodeJsFolder/project/node_modules/express/lib/router/index.js:317:13)\n    at /Users/nawafalsuhaibani/Documents/NodeJsFolder/project/node_modules/express/lib/router/index.js:284:7"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/project...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/project...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/project...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
